@@ -1,0 +1,63 @@
+h1{
+    color:rgb(47, 101, 128);
+    font-size:xx-large;
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    align-items: stretch;
+}
+
+#feed div:hover {
+    font-size:large;
+
+    }
+
+
+* {
+    font-family:monospace;
+    border-color: rgb(145, 69, 84);
+}
+
+li {
+    display:flex;
+    
+    justify-content:center;
+    align-items:center; 
+}
+
+
+div {
+    height: 30px;
+    
+    display:flex;
+    
+    justify-content:center;
+    align-items:center;
+}
+
+
+section {
+    border: black;
+}
+
+    h3{
+        font-weight:1000;
+        font-size: xx-large;
+        display:flex;
+        justify-content: center;
+        align-items:flex-start;
+    }
+
+
+
+
+
+#countdown{
+    box-sizing: border-box;
+    border: 20px;
+    border-color:black;
+    height:20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
